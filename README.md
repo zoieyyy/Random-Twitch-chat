@@ -11,4 +11,12 @@ My app allows you to generate a fake twitch chat according to your needs.
 So this is how it works...
 
 The json format is self-explanatory 
+--id assigns an id (not really used for anything)
+--username is username
+--color is for username color
+--various badge can be assigned (use guide)
+--message is for message the username sends!
+
+
+
 ![Alt text](https://raw.githubusercontent.com/zoieyyy/Random-Twitch-chat/refs/heads/main/goose.png) 
