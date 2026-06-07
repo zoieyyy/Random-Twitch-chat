@@ -11,4 +11,4 @@ My app allows you to generate a fake twitch chat according to your needs.
 So this is how it works...
 
 The json format is self-explanatory 
-https://raw.githubusercontent.com/zoieyyy/Random-Twitch-chat/refs/heads/main/goose.png
+![Alt text](https://raw.githubusercontent.com/zoieyyy/Random-Twitch-chat/refs/heads/main/goose.png) 
