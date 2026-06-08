@@ -42,9 +42,13 @@ Step two: paste the link at the bottom of the emotes links box.
 
 # HOW TO ACTUALLY USE IT?
 
+
+FIRST DOWNLOAD THE HTML FILE "twitch-chat-greenscreen.html"
+
 Ask claude to generate some false chat i use the prompt:
 "
-
+Generate a JSON array of 500 Twitch chat messages simulating a live stream chat. Use a fixed pool of 60 unique users. Each user has a consistent username, color (hex), and badge (one of: "mod", "sub", "5yr", "vip", or null). Weight ~15 users as regulars (appear 15-30 times), ~20 as casual chatters (5-15 times), and the rest as lurkers (1-4 times).
+Each object: { "id": 1, "username": "...", "color": "#...", "badge": "...", "message": "..." }
 "
 
 then paste it into the *Chat JSON (array of messages)* section
