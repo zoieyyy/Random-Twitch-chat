@@ -19,7 +19,7 @@ The json format is self-explanatory
   - various badge can be assigned (use guide)
   - message is for message the username sends!
 
-![Alt text](https://github.com/zoieyyy/Random-Twitch-chat/blob/main/Assets/Assets/goose.png?raw=true)
+![Alt text](https://github.com/zoieyyy/Random-Twitch-chat/blob/main/Assets/goose.png?raw=true)
 
 
 ---------------------------------------------EMOTES---------------------------------------------
