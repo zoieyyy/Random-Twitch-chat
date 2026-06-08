@@ -1,7 +1,11 @@
 
+
 # Random-Twitch-chat
+
+![enter image description here](https://camo.githubusercontent.com/f620d0be6501733f4b23a67aa3030ec4915f2dc79e5a82f4e3c5ff85d3d7a868/68747470733a2f2f63646e2e3774762e6170702f656d6f74652f303146364e434b4d5030303030353258353633374457325844592f33782e61766966)
 This app allows you to make a fake twitch chat overlay!
 
+![Preview of the App :D](https://github.com/zoieyyy/Random-Twitch-chat/blob/main/Assets/Preview.gif)
 
 I really wanted a website or app that would display simulated twitch chats over a green screen. While making videos for youtube/ tiktok/ other video platforms it has been really hard to generate fake chat. I have struggled with it myself and there honestly was no easy way to do it before today!!!! 
 
