@@ -19,13 +19,13 @@ The json format is self-explanatory
   - various badge can be assigned (use guide)
   - message is for message the username sends!
 
-![Alt text](https://raw.githubusercontent.com/zoieyyy/Random-Twitch-chat/refs/heads/main/goose.png)
+![Alt text](https://github.com/zoieyyy/Random-Twitch-chat/blob/main/Assets/Assets/goose.png?raw=true)
 
 
 ---------------------------------------------EMOTES---------------------------------------------
  **few emotes are pre-loaded but you can add as many as you want :D**
 
-![emoji board](https://raw.githubusercontent.com/zoieyyy/Random-Twitch-chat/refs/heads/main/image.png)
+![emoji board](https://raw.githubusercontent.com/zoieyyy/Random-Twitch-chat/refs/heads/main/Assets/image.png)
 
 IF YOU WANT TO ADD YOUR OWN EMOTES:
 
@@ -45,7 +45,7 @@ Ask claude to generate some false chat i use the prompt:
 
 then paste it into the *Chat JSON (array of messages)* section
 
-![enter image description here](https://github.com/zoieyyy/Random-Twitch-chat/blob/main/STEP1.png?raw=true)
+![enter image description here](https://github.com/zoieyyy/Random-Twitch-chat/blob/main/Assets/STEP1.png?raw=true)
 
 OPTIONAL: Add more emotes!
 
@@ -56,14 +56,14 @@ Step 2: Set up a screen recording (Win Key+Shift+S on windows will allow you to 
 
 
 
-![enter image description here](https://github.com/zoieyyy/Random-Twitch-chat/blob/main/selection.gif?raw=true)
+![enter image description here](https://github.com/zoieyyy/Random-Twitch-chat/blob/main/Assets/selection.gif?raw=true)
 
  
  
 
 
 Step 3: Click on Stream In button.
-	![enter image description here](https://github.com/zoieyyy/Random-Twitch-chat/blob/main/Step3.gif?raw=true)
+	![enter image description here](https://github.com/zoieyyy/Random-Twitch-chat/blob/main/Assets/Step3.gif?raw=true)
 	
 	- This will start displaying every chat from the json and assign a random emoji to the messages!
 
@@ -72,7 +72,7 @@ Step 3: Click on Stream In button.
 
 
 Now you can fine tune the temp of your chat by scrolling the sprinkle chance and emote only chat chance. 
-![image of temp controls ](https://github.com/zoieyyy/Random-Twitch-chat/blob/main/temperature.png?raw=true)
+![image of temp controls ](https://github.com/zoieyyy/Random-Twitch-chat/blob/main/Assets/temperature.png?raw=true)
 
 
 Now import the footage to your editing software and chroma key out the green screen
